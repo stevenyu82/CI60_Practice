@@ -1,0 +1,1 @@
+echo gen_reg_model
